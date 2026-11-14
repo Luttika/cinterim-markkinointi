@@ -1,0 +1,337 @@
+{
+ "linkit": [
+  [
+   "huolto.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "index.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "jalkilaskenta.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "lean.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "ominaisuudet.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "palvelu.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "projektityo.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "teollisuus.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "tietoturva.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ],
+  [
+   "tuotanto.html",
+   "/lataa/Cinterim_Asennus.exe"
+  ]
+ ],
+ "meta": [
+  {
+   "sivu": "index",
+   "title_pituus": 54,
+   "desc_pituus": 163,
+   "canonical": "https://cinterim.fi/",
+   "og_image": "https://cinterim.fi/og-image.png",
+   "h1": 1,
+   "otsikkotason_hypyt": 0,
+   "ld_json_ok": [
+    1
+   ],
+   "img_ilman_alt": 0,
+   "rikkinaiset_kuvat": [],
+   "js_virheet": []
+  },
+  {
+   "sivu": "tuotanto",
+   "title_pituus": 65,
+   "desc_pituus": 130,
+   "canonical": "https://cinterim.fi/tuotanto",
+   "og_image": "https://cinterim.fi/og-tuotanto.png",
+   "h1": 1,
+   "otsikkotason_hypyt": 0,
+   "ld_json_ok": [
+    1
+   ],
+   "img_ilman_alt": 0,
+   "rikkinaiset_kuvat": [],
+   "js_virheet": []
+  },
+  {
+   "sivu": "lean",
+   "title_pituus": 69,
+   "desc_pituus": 152,
+   "canonical": "https://cinterim.fi/lean",
+   "og_image": "https://cinterim.fi/og-lean.png",
+   "h1": 1,
+   "otsikkotason_hypyt": 0,
+   "ld_json_ok": [
+    1
+   ],
+   "img_ilman_alt": 0,
+   "rikkinaiset_kuvat": [],
+   "js_virheet": []
+  },
+  {
+   "sivu": "huolto",
+   "title_pituus": 53,
+   "desc_pituus": 157,
+   "canonical": "https://cinterim.fi/huolto",
+   "og_image": "https://cinterim.fi/og-huolto.png",
+   "h1": 1,
+   "otsikkotason_hypyt": 0,
+   "ld_json_ok": [
+    1
+   ],
+   "img_ilman_alt": 0,
+   "rikkinaiset_kuvat": [],
+   "js_virheet": []
+  },
+  {
+   "sivu": "ominaisuudet",
+   "title_pituus": 54,
+   "desc_pituus": 142,
+   "canonical": "https://cinterim.fi/ominaisuudet",
+   "og_image": "https://cinterim.fi/og-ominaisuudet.png",
+   "h1": 1,
+   "otsikkotason_hypyt": 0,
+   "ld_json_ok": [
+    1
+   ],
+   "img_ilman_alt": 0,
+   "rikkinaiset_kuvat": [],
+   "js_virheet": []
+  },
+  {
+   "sivu": "palvelu",
+   "title_pituus": 59,
+   "desc_pituus": 121,
+   "canonical": "https://cinterim.fi/palvelu",
+   "og_image": "https://cinterim.fi/og-palvelu.png",
+   "h1": 1,
+   "otsikkotason_hypyt": 0,
+   "ld_json_ok": [
+    1
+   ],
+   "img_ilman_alt": 0,
+   "rikkinaiset_kuvat": [],
+   "js_virheet": []
+  },
+  {
+   "sivu": "teollisuus",
+   "title_pituus": 56,
+   "desc_pituus": 141,
+   "canonical": "https://cinterim.fi/teollisuus",
+   "og_image": "https://cinterim.fi/og-teollisuus.png",
+   "h1": 1,
+   "otsikkotason_hypyt": 0,
+   "ld_json_ok": [
+    1
+   ],
+   "img_ilman_alt": 0,
+   "rikkinaiset_kuvat": [],
+   "js_virheet": []
+  },
+  {
+   "sivu": "jalkilaskenta",
+   "title_pituus": 57,
+   "desc_pituus": 148,
+   "canonical": "https://cinterim.fi/jalkilaskenta",
+   "og_image": "https://cinterim.fi/og-jalkilaskenta.png",
+   "h1": 1,
+   "otsikkotason_hypyt": 0,
+   "ld_json_ok": [
+    1
+   ],
+   "img_ilman_alt": 0,
+   "rikkinaiset_kuvat": [],
+   "js_virheet": []
+  }
+ ],
+ "asettelu": [
+  {
+   "sivu": "index",
+   "leveys": 375,
+   "scrollWidth": 375,
+   "clientWidth": 375,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "index",
+   "leveys": 768,
+   "scrollWidth": 768,
+   "clientWidth": 768,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "index",
+   "leveys": 1280,
+   "scrollWidth": 1280,
+   "clientWidth": 1280,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "tuotanto",
+   "leveys": 375,
+   "scrollWidth": 375,
+   "clientWidth": 375,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "tuotanto",
+   "leveys": 768,
+   "scrollWidth": 768,
+   "clientWidth": 768,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "tuotanto",
+   "leveys": 1280,
+   "scrollWidth": 1280,
+   "clientWidth": 1280,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "lean",
+   "leveys": 375,
+   "scrollWidth": 375,
+   "clientWidth": 375,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "lean",
+   "leveys": 768,
+   "scrollWidth": 768,
+   "clientWidth": 768,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "lean",
+   "leveys": 1280,
+   "scrollWidth": 1280,
+   "clientWidth": 1280,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "huolto",
+   "leveys": 375,
+   "scrollWidth": 375,
+   "clientWidth": 375,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "huolto",
+   "leveys": 768,
+   "scrollWidth": 768,
+   "clientWidth": 768,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "huolto",
+   "leveys": 1280,
+   "scrollWidth": 1280,
+   "clientWidth": 1280,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "ominaisuudet",
+   "leveys": 375,
+   "scrollWidth": 375,
+   "clientWidth": 375,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "ominaisuudet",
+   "leveys": 768,
+   "scrollWidth": 768,
+   "clientWidth": 768,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "ominaisuudet",
+   "leveys": 1280,
+   "scrollWidth": 1280,
+   "clientWidth": 1280,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "palvelu",
+   "leveys": 375,
+   "scrollWidth": 375,
+   "clientWidth": 375,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "palvelu",
+   "leveys": 768,
+   "scrollWidth": 768,
+   "clientWidth": 768,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "palvelu",
+   "leveys": 1280,
+   "scrollWidth": 1280,
+   "clientWidth": 1280,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "teollisuus",
+   "leveys": 375,
+   "scrollWidth": 375,
+   "clientWidth": 375,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "teollisuus",
+   "leveys": 768,
+   "scrollWidth": 768,
+   "clientWidth": 768,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "teollisuus",
+   "leveys": 1280,
+   "scrollWidth": 1280,
+   "clientWidth": 1280,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "jalkilaskenta",
+   "leveys": 375,
+   "scrollWidth": 375,
+   "clientWidth": 375,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "jalkilaskenta",
+   "leveys": 768,
+   "scrollWidth": 768,
+   "clientWidth": 768,
+   "vaakavieritys": false
+  },
+  {
+   "sivu": "jalkilaskenta",
+   "leveys": 1280,
+   "scrollWidth": 1280,
+   "clientWidth": 1280,
+   "vaakavieritys": false
+  }
+ ],
+ "kuvat": []
+}
