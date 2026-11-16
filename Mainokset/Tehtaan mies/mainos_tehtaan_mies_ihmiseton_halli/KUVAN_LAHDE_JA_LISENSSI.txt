@@ -1,0 +1,23 @@
+Mainos: oma kuva + ihmiseton konepajahalli + aito kuvakaappaus
+
+1) Historiallinen hallikuva (vasen puoli)
+   Otsikko:     Lokomo, tehdashalli
+   Vuosi:       1952
+   Valokuvaaja: E. M. Staf
+   Omistaja:    Vapriikin kuva-arkisto / Tampereen historialliset museot
+   Lisenssi:    CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.fi)
+   Lahde:       https://www.finna.fi/Record/siiri.urn%3Anbn%3Afi-vapriikkihttp%253A%252F%252Fmuseosiiri.tampere.fi%253A8080%252FVALOKUVA%252Fcontent%252FSIR_EXEC%252Fimages%252Fprimary%252F20060120%252F11377548093960.jpg
+   Kuvassa ei ole ihmisia, joten Vapriikin henkilokuvarajoitus (ei mainontaan ilman suostumusta) ei koske.
+
+   VAADITTU LAHDEMERKINTA (kuvissa pienella tekstilla; lisaa myos postauksen tekstiin):
+   Kuva: Vapriikin kuva-arkisto / E. M. Staf, CC BY 4.0
+
+   Kuvaa on muokattu: rajattu, muutettu seepiaan ja liitetty mainoskuvaan.
+   CC BY 4.0 sallii muokkauksen ja kaupallisen kayton, kun lahde mainitaan.
+
+2) Mies kuvassa: mainoksen tekijan oma valokuva (selfie), tausta poistettu.
+
+3) Kuvakaappaus (Kate riveittain): ote Cinterim-ohjelman Jalkilaskenta-nakymasta.
+   Data on keksitty demodataa (markkinointi/demo/demo-kanta_3.62.2.db.gz), ei oikeita asiakkaita.
+   Kuvakaappauksesta on piilotettu pitka selitysteksti ja valittu nelja saraketta (Rivi, Tuotto, Kate, %);
+   luvut ovat ohjelman laskemia, niita ei ole muutettu.

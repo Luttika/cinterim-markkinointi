@@ -1,0 +1,16 @@
+Cinterim-mainos "Tehtaan mies - tehtaan tyokalu": kohdelinkit seurantaa varten
+(kohde: cinterim.fi/kokeile, sama kaytanto kuin LinkedIn-postausten UTM-linkeissa)
+
+LinkedIn-mainos (maksettu), 1:1 / 4:5 / 1.91:1:
+https://cinterim.fi/kokeile?utm_source=linkedin&utm_medium=paid_social&utm_campaign=tehtaan_mies&utm_content=1x1
+https://cinterim.fi/kokeile?utm_source=linkedin&utm_medium=paid_social&utm_campaign=tehtaan_mies&utm_content=4x5
+https://cinterim.fi/kokeile?utm_source=linkedin&utm_medium=paid_social&utm_campaign=tehtaan_mies&utm_content=191x1
+
+LinkedIn-postaus (orgaaninen):
+https://cinterim.fi/kokeile?utm_source=linkedin&utm_medium=social&utm_campaign=tehtaan_mies&utm_content=postaus
+
+LinkedIn-yrityssivun banneri (kuvaan ei klikkausta; kayta yrityssivun nettisivu-linkissa):
+https://cinterim.fi/?utm_source=linkedin&utm_medium=social&utm_campaign=tehtaan_mies&utm_content=yrityssivu
+
+Sahkopostin allekirjoitus / esite:
+https://cinterim.fi/kokeile?utm_source=email&utm_medium=allekirjoitus&utm_campaign=tehtaan_mies
